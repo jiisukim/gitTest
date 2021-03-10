@@ -1,5 +1,1 @@
-https://github.com/username/저장소이름
-
-https://github.com/jiisukim/gitTest
-
-https://github.com/jiisukim/gitTest.git
+te
